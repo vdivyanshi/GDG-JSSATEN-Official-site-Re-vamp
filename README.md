@@ -4,7 +4,7 @@
 
 This project is a UX/UI redesign of the Google Developer Groups (GDG) website aimed at improving user engagement, navigation, event discovery, and community participation.
 
-Google Developer Groups (GDGs) are community-led groups where developers learn, connect, and grow through events, workshops, and collaboration. :contentReference[oaicite:0]{index=0}
+Google Developer Groups (GDG) are community-led groups where developers learn, connect, and grow through events, workshops, and collaboration. :contentReference[oaicite:0]{index=0}
 
 ## Live Website
 
