@@ -1,6 +1,4 @@
-# GDG Official Website Redesign – UX/UI Case Study
-
-
+# GDG Official Website Redesign 
 
 ## 📌 Overview
 
