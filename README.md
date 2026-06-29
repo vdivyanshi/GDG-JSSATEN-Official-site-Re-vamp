@@ -5,7 +5,7 @@
 Google Developer Groups-JSSATEN (GDG) website re-vamp.
 
 
-## Hero Page
+## Hero-Page
 <img width="4626" height="3873" alt="Frame 2147225823" src="https://github.com/user-attachments/assets/e5379116-5d96-45ba-b21f-8d8c03d9b2ff" />
 <img width="4626" height="3873" alt="Frame 2147225824" src="https://github.com/user-attachments/assets/b8cf70e4-607c-49b2-a3ec-5d004bd4cf31" />
 <img width="4626" height="3873" alt="Frame 2147225825" src="https://github.com/user-attachments/assets/cd9f803e-6346-44a0-b260-c5ca59dbd237" />
