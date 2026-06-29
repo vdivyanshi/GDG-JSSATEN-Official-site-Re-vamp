@@ -2,9 +2,18 @@
 
 ## Overview
 
-This project is a UX/UI redesign of the Google Developer Groups (GDG) website aimed at improving user engagement, navigation, event discovery, and community participation.
+Google Developer Groups-JSSATEN (GDG) website re-vamp.
 
 Google Developer Groups (GDG) are community-led groups where developers learn, connect, and grow through events, workshops, and collaboration. :contentReference[oaicite:0]{index=0}
+
+## Hero Page
+<img width="4626" height="3873" alt="Frame 2147225823" src="https://github.com/user-attachments/assets/e5379116-5d96-45ba-b21f-8d8c03d9b2ff" />
+<img width="4626" height="3873" alt="Frame 2147225824" src="https://github.com/user-attachments/assets/b8cf70e4-607c-49b2-a3ec-5d004bd4cf31" />
+<img width="4626" height="3873" alt="Frame 2147225825" src="https://github.com/user-attachments/assets/cd9f803e-6346-44a0-b260-c5ca59dbd237" />
+
+
+
+
 
 ## Live Website
 
@@ -27,19 +36,6 @@ The existing platform provides access to events, chapters, and community resourc
 The goal was to create a cleaner, more intuitive, and visually engaging experience.
 
 ---
-
-## Target Users
-
-### Primary Users
-- College students
-- Beginner developers
-- GDG chapter members
-- Event attendees
-
-### Secondary Users
-- Organizers
-- Industry professionals
-- Community leaders
 
 
 
