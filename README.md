@@ -22,7 +22,7 @@ Google Developer Groups-JSSATEN (GDG) website re-vamp.
 
 ---
 
-## Problem Statement
+## Problem-Statement
 
 The existing platform provides access to events, chapters, and community resources, but new users may find it difficult to:
 
